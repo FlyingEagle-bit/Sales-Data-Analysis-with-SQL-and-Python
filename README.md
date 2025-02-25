@@ -42,13 +42,7 @@ This project involves data analysis and manipulation of sales transaction data u
   - Month-over-month growth comparisons of sales.
   - Sub-category with the highest profit growth.
 
-### Installation and Setup:
-1. Clone this repository to your local machine.
-2. Install required dependencies using pip:
-   ```
-   pip install pandas sqlalchemy
-   ```
-3. Make sure you have access to a SQL Server instance and update the connection string as necessary.
+
 
 ### Running the Analysis:
 1. Load the `orders.csv` file into the `df` DataFrame.
